@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://github.com/hardaatbaath/portfolio-website/blob/master/public/hardaat_formal%20copy.jpeg"
+              src="/hardaat_formal%20copy.jpeg"
               alt="Hardaat's portrait"
               width="192"
               height="192"
