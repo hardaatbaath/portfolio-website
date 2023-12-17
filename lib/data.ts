@@ -65,7 +65,7 @@ export const projectsData = [
   {
     title: "Project Kratos",
     description:
-      "I worked as a Software Developer in the Autonomous Subsystem of Project Kratos, an interdisciplinary student-run team making a Mars rover. Worked with ROS to make the rover autonomous",
+      "Autonomous Subsystem Lead of Project Kratos, an interdisciplinary student-run team making a Mars rover. Worked with ROS for autonomous traversal of the rover.",
     tags: ["ROS", "Python", "Gazebo", "OpenCV", "Linux"],
     imageUrl: kratos_descriptionImg,
   },
