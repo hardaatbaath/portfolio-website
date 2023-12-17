@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
-import { FaGithubSquare, FaMousePointer } from "react-icons/fa";
+import { FaGithub, FaMousePointer } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
@@ -111,7 +111,7 @@ export default function Intro() {
           href="https://github.com/hardaatbaath"
           target="_blank"
         >
-          <FaGithubSquare />
+          <FaGithub />
         </a>
 
         <a
