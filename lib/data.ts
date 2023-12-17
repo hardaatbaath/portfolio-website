@@ -62,6 +62,13 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Project Kratos",
+    description:
+      "I worked as a Software Developer in the Autonomous Subsystem of Project Kratos. Project Kratos is an interdisciplinary student-run team with the goal of making a Mars rover. Worked with ROS to make the rover autonomous, capable of traversal in unknown environments.",
+    tags: ["ROS", "Python", "Gazebo", "OpenCV", "Linux"],
+    imageUrl: kratos_descriptionImg,
+  },
+  {
     title: "CorpComment",
     description:
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
@@ -85,23 +92,23 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
+  "C",
+  "C++",
   "Python",
-  "Django",
-  "Framer Motion",
+  "Java",
+  "MATLAB",
+  "Numpy",
+  "Matplotlib",
+  "Pandas",
+  "Seaborn",
+  "OpenCV",
+  "Scikit-Learn",
+  "ROS",
+  "PyTorch",
+  "Tensorflow",
+  "Keras",
+  "Gazebo",
+  "CoppeliaSim",
+  "Git",
+  "Linux",
 ] as const;
