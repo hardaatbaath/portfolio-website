@@ -4,7 +4,7 @@ import { IoPlanetOutline } from "react-icons/io5";
 import { PiListMagnifyingGlass } from "react-icons/pi";
 // import wordanalyticsImg from "@/public/wordanalytics.png";
 import kratos_descriptionImg from "@/public/kratos_description.png";
-import corpcommentImg from "@/public/corpcomment.png";
+import ceeri_project from "@/public/ceeri-project.png";
 import rmtdevImg from "@/public/rmtdev.png";
 
 
@@ -66,22 +66,22 @@ export const projectsData = [
   {
     title: "Project Kratos",
     description:
-      "Autonomous Subsystem Lead of Project Kratos, an interdisciplinary student-run team making a Mars rover. Worked with ROS for autonomous traversal of the rover.",
+      "Developed various algorithms for object and GPS coordinates following. Worked with ROS and simulated our scripts in Gazebo.",
     tags: ["ROS", "Python", "Gazebo", "OpenCV", "Linux"],
     imageUrl: kratos_descriptionImg,
   },
   {
-    title: "CorpComment",
+    title: "Deep Learning Techniques for Damage Restoration",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Developed a DL-based pipeline for damage generation, segmentation and restoration of Rajasthani Wall Murals",
+    tags: ["Deep Learning", "Python", "OpenCV", "PyTorch", "Computer Vision"],
+    imageUrl: ceeri_project,
   },
   {
-    title: "rmtDev",
+    title: "SPARKLE: Haar Wavelets based Mapping",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      " Designing and implementing a mapping and path planning algorithm for drones utilizing the Haar wavelets model.",
+    tags: ["ROS", "Python", "Gazebo", "OpenCV"],
     imageUrl: rmtdevImg,
   },
   // {
