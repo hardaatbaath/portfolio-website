@@ -65,7 +65,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Hardaat Singh Baath.</span> I'm an{" "}
         <span className="font-bold">ML Engineer</span> with{" "}
         <span className="font-bold">1 year</span> of experience. I enjoy
-        exploring various<span className="italic"> AI models</span>. My focus is{" "}
+        exploring various<span className="italic"> learning models</span>. My focus is{" "}
         <span className="underline">DL and Robotics</span>.
       </motion.h1>
 
