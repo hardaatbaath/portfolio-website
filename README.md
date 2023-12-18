@@ -1,4 +1,4 @@
-[![Watch tutorial here]](https://youtu.be/sUKptmUVIBM)
+[Watch tutorial here](https://youtu.be/sUKptmUVIBM)
 
 ## Setup
 
