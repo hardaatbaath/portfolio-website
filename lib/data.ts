@@ -73,14 +73,14 @@ export const projectsData = [
   {
     title: "Deep Learning Techniques for Damage Restoration",
     description:
-      "Developed a DL-based pipeline for damage generation, segmentation and restoration of Rajasthani Wall Murals",
+      "Developed a DL-based pipeline for restoration of Rajasthani Wall Murals",
     tags: ["Deep Learning", "Python", "OpenCV", "PyTorch", "Computer Vision"],
     imageUrl: ceeri_project,
   },
   {
     title: "SPARKLE: Haar Wavelets based Mapping",
     description:
-      " Designing and implementing a mapping and path planning algorithm for drones utilizing the Haar wavelets model.",
+      "Implementing a mapping and path planning algorithm for drones utilizing the Haar wavelets model.",
     tags: ["ROS", "Python", "Gazebo", "OpenCV"],
     imageUrl: droneMap,
   },
