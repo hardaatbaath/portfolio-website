@@ -5,7 +5,7 @@ import { PiListMagnifyingGlass } from "react-icons/pi";
 // import wordanalyticsImg from "@/public/wordanalytics.png";
 import kratos_descriptionImg from "@/public/kratos_description.png";
 import ceeri_project from "@/public/ceeri-project.png";
-import droneMap from "@/public/drone-mapping.png";
+import droneMap from "@/public/drone-mapping.jpeg";
 
 
 export const links = [
