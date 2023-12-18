@@ -5,7 +5,7 @@ import { PiListMagnifyingGlass } from "react-icons/pi";
 // import wordanalyticsImg from "@/public/wordanalytics.png";
 import kratos_descriptionImg from "@/public/kratos_description.png";
 import ceeri_project from "@/public/ceeri-project.png";
-import rmtdevImg from "@/public/rmtdev.png";
+import droneMap from "@/public/drone-mapping.png";
 
 
 export const links = [
@@ -82,7 +82,7 @@ export const projectsData = [
     description:
       " Designing and implementing a mapping and path planning algorithm for drones utilizing the Haar wavelets model.",
     tags: ["ROS", "Python", "Gazebo", "OpenCV"],
-    imageUrl: rmtdevImg,
+    imageUrl: droneMap,
   },
   // {
   //   title: "Word Analytics",
