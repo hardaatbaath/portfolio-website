@@ -30,7 +30,7 @@ export default function About() {
         <span className="font-medium">
           C++ and Python
         </span>
-        . I am also familiar with C, Java and TensorFlow. I am always looking to
+        . I am also familiar with C, Java and MATLAB. I am always looking to
         learn new technologies. I am currently looking for {" "}
         <span className="font-medium"> internship opportunities</span> as a research intern or ML Engineer.
       </p>
