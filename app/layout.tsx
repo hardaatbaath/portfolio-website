@@ -1,5 +1,6 @@
 import Header from "@/components/header";
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import "./globals.css";
 import { Inter } from "next/font/google";
 import ActiveSectionContextProvider from "@/context/active-section-context";
@@ -40,6 +41,7 @@ export default function RootLayout({
           </ActiveSectionContextProvider>
         </ThemeContextProvider>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
