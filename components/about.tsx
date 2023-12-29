@@ -21,7 +21,7 @@ export default function About() {
       <p className="mb-3">
         I am currently pursuing a bachelor's degree in{" "}
         <span className="font-medium">Computer Science</span> from BITS Pilani, Goa. I have a passion 
-        for autonomous robotics and Deep Learning and have completed various
+        for Autonomous Robotics, Computer Vision and Deep Learning and have completed various
         projects in the field of {" "} <span className="font-medium">ML and DL.</span>.{" "}
         <span className="italic"> My favourite part of programming is</span> the 
         problem-solving aspect. I <span className="underline">love</span> the
